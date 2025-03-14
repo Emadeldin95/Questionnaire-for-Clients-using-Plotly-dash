@@ -11,6 +11,10 @@ git clone https://github.com/yourusername/robotics-system-questionnaire.git
 cd robotics-system-questionnaire
 ```
 
+## Screenshots
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+
 ## Usage
 Run the questionnaire script using Python:
 ```bash
